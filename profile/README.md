@@ -1,39 +1,48 @@
 # m0saic
 
-m0saic is a deterministic, programmable video composition system.
+m0saic is a deterministic visual composition system.
 
-It enables developers to define structured layouts as code and render precise, reproducible visual outputs using a portable layout algebra.
+It allows developers to define layouts as code and produce precise, reproducible visual outputs across environments.
 
-m0saic is built on **m0**, a minimal rectangle layout DSL designed for deterministic geometry and stable identity.
+m0saic is built on **m0**, a minimal rectangle layout DSL for deterministic geometry and stable identity.
+
+👉 Explore the DSL: https://github.com/m0saic-dsl
 
 ---
 
 ## What m0saic Provides
 
-- Programmable video composition
-- Deterministic layout rendering
-- CLI tooling
-- Desktop and web applications
-- Template libraries
-- FFmpeg-backed rendering pipeline
+- Deterministic layout system (m0)
+- 🧠 [Learn (interactive guides and tutorials)](https://app.m0saic.io/learn)
+- 💻 Desktop app (full local experience, in progress)
+- 📐 [Layout editor (web)](https://app.m0saic.io/layout)
+- 🛠 CLI tooling (in progress)
+- 🧩 Templates (in progress)
+- 🎬 Rendering engine (in progress)
 
-m0saic is designed for developers who want precision, repeatability, and control over visual composition.
+m0saic is designed for developers who want full control over visual structure without relying on heuristic layout systems.
 
 ---
 
 ## Core Technology
 
-m0saic is powered by **m0 (m0saic DSL)** — a deterministic, integer-only rectangle layout algebra.
+At the center of m0saic is **m0**, a compact, integer-only layout language.
 
-The m0 specification and language implementation live at:
+m0 defines exact rectangle geometry, ordering, and composition in a portable string format that can be interpreted consistently across tools.
 
-👉 https://github.com/m0saic-dsl
+This enables:
+
+- Identical layouts across platforms
+- Stable visual identity
+- Composable, inspectable structure
+- Deterministic rendering pipelines
 
 ---
 
 ## Get Started
 
 - Website: https://m0saic.io
+- Layout Editor: https://m0saic.io/layout
 - Documentation: https://m0saic.io/docs
 - npm: https://www.npmjs.com/org/m0saic
 - Community: https://discord.gg/ns58hGm6Mm
