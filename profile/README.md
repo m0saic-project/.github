@@ -1,39 +1,59 @@
-# m0saic
+<p align="center">
+  <a href="https://m0saic.io" target="_blank" rel="noopener noreferrer">
+    <img src="2.png" alt="m0saic" wigth="380" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo/wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/logo/wordmark-dark.svg">
+      <img src="assets/logo/wordmark-dark.svg" alt="m0saic" width="380"/>
+    </picture>
+  </a>
+</p>
 
-m0saic is a deterministic visual composition system.
+<p align="center">Deterministic visual composition system.</p>
 
-It allows developers to define layouts as code and produce precise, reproducible visual outputs across environments.
+<p align="center">
+  <a href="https://m0saic.io"><img src="https://img.shields.io/badge/Website-m0saic.io-f97316" alt="Website"></a>
+  <a href="https://www.npmjs.com/org/m0saic"><img src="https://img.shields.io/badge/npm-m0saic-cb3837?logo=npm&logoColor=white" alt="npm"></a>
+  <a href="https://discord.gg/ns58hGm6Mm"><img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
-m0saic is built on **m0**, a minimal rectangle layout DSL for deterministic geometry and stable identity.
-
-👉 Explore the DSL: https://github.com/m0saic-dsl
+<p align="center">
+  <a href="https://x.com/qsbuilds"><img src="https://img.shields.io/twitter/follow/qsbuilds?style=social" alt="Twitter"></a>
+  <a href="https://mosaicengine.substack.com"><img src="https://img.shields.io/badge/Substack-Subscribe-FF6719?logo=substack&logoColor=white" alt="Substack"></a>
+  <a href="https://reddit.com/r/m0saic"><img src="https://img.shields.io/badge/Reddit-Join-FF4500?logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="mailto:hello@m0saic.dev"><img src="https://img.shields.io/badge/Contact-hello@m0saic.dev-888?logo=gmail&logoColor=white" alt="Contact"></a>
+</p>
 
 ---
 
-## What m0saic Provides
+m0saic lets developers define layouts as code and produce precise, reproducible visual outputs across environments.
 
-- Deterministic layout system (m0)
-- 🧠 [Learn (interactive guides and tutorials)](https://app.m0saic.io/learn)
-- 💻 Desktop app (full local experience, in progress)
-- 📐 [Layout editor (web)](https://app.m0saic.io/layout)
-- 🛠 CLI tooling (in progress)
-- 🧩 Templates (in progress)
-- 🎬 Rendering engine (in progress)
+It is built on **m0**, a minimal rectangle layout DSL for deterministic geometry and stable identity.
 
-m0saic is designed for developers who want full control over visual structure without relying on heuristic layout systems.
+> Explore the DSL: [github.com/m0saic-dsl](https://github.com/m0saic-dsl)
+
+---
+
+## What's Inside
+
+| | |
+|---|---|
+| ◻️ **m0** | [m0saic DSL](https://github.com/m0saic-dsl) - integer-only, portable, inspectable |
+| 🧠 **Learn** | [app.m0saic.io/learn](https://app.m0saic.io/learn) - interactive guides and tutorials |
+| 📐 **Layout Editor** | [app.m0saic.io/layout](https://app.m0saic.io/layout) - visual editor for m0 strings |
+| 💻 **Desktop App** | Full local experience *(in progress)* |
+| 🛠 **CLI** | Command-line tooling for rendering and validation *(in progress)* |
+| 🧩 **Templates** | Composable, parameterized layout templates *(in progress)* |
+| 🎬 **Engine** | Deterministic rendering pipeline *(in progress)* |
 
 ---
 
 ## Core Technology
 
-At the center of m0saic is **m0**, a compact, integer-only layout language.
-
-m0 defines exact rectangle geometry, ordering, and composition in a portable string format that can be interpreted consistently across tools.
-
-This enables:
+At the center of m0saic is **m0** — a compact, integer-only layout language that defines exact rectangle geometry, ordering, and composition in a portable string format.
 
 - Identical layouts across platforms
-- Stable visual identity
+- Stable visual identity across renders
 - Composable, inspectable structure
 - Deterministic rendering pipelines
 
@@ -41,25 +61,20 @@ This enables:
 
 ## Get Started
 
-- Website: https://m0saic.io
-- Layout Editor: https://m0saic.io/layout
-- Documentation: https://m0saic.io/docs
-- npm: https://www.npmjs.com/org/m0saic
-- Community: https://discord.gg/ns58hGm6Mm
+```bash
+npm install @m0saic/dsl
+```
+
+| | |
+|---|---|
+| Website | [m0saic.io](https://m0saic.io) |
+| Layout Editor | [app.m0saic.io/layout](https://app.m0saic.io/layout) |
+| Docs | [m0saic.io/docs](https://m0saic.io/docs) |
+| npm | [npmjs.com/org/m0saic](https://www.npmjs.com/org/m0saic) |
+| Discord | [discord.gg/ns58hGm6Mm](https://discord.gg/ns58hGm6Mm) |
 
 ---
 
-## Philosophy
-
-m0saic prioritizes:
-
-- Determinism over heuristics  
-- Integer precision over floating ambiguity  
-- Explicit structure over implicit layout  
-- Portable specifications over runtime coupling  
-
----
-
-## Maintained by
-
-m0saic is developed and maintained by **m0saic LLC**.
+<p align="center">
+  <sub>Developed and maintained by <strong>m0saic LLC</strong></sub>
+</p>
