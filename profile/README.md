@@ -21,7 +21,7 @@
   <a href="https://x.com/qsbuilds"><img src="https://img.shields.io/twitter/follow/qsbuilds?style=social" alt="Twitter"></a>
   <a href="https://mosaicengine.substack.com"><img src="https://img.shields.io/badge/Substack-Subscribe-FF6719?logo=substack&logoColor=white" alt="Substack"></a>
   <a href="https://reddit.com/r/m0saic"><img src="https://img.shields.io/badge/Reddit-Join-FF4500?logo=reddit&logoColor=white" alt="Reddit"></a>
-  <a href="mailto:hello@m0saic.dev"><img src="https://img.shields.io/badge/Contact-hello@m0saic.dev-888?logo=gmail&logoColor=white" alt="Contact"></a>
+  <a href="mailto:hi@m0saic.io"><img src="https://img.shields.io/badge/Contact-hello@m0saic.dev-888?logo=gmail&logoColor=white" alt="Contact"></a>
 </p>
 
 ---
