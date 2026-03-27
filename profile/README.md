@@ -48,17 +48,6 @@ It is built on **m0**, a minimal rectangle layout DSL for deterministic geometry
 
 ---
 
-## Core Technology
-
-At the center of m0saic is **m0** — a compact, integer-only layout language that defines exact rectangle geometry, ordering, and composition in a portable string format.
-
-- Identical layouts across platforms
-- Stable visual identity across renders
-- Composable, inspectable structure
-- Deterministic rendering pipelines
-
----
-
 ## Get Started
 
 ```bash
