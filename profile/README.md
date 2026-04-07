@@ -44,7 +44,7 @@ It is built on **m0**, a minimal rectangle layout DSL for deterministic geometry
 | 💻 **Desktop App** | Full local experience *(in progress)* |
 | 🛠 **CLI** | Command-line tooling for rendering and validation *(in progress)* |
 | 🧩 **Templates** | Composable, parameterized layout templates *(in progress)* |
-| 🎬 **Engine** | Deterministic rendering pipeline *(in progress)* |
+| 🎬 **Engine** | Deterministic video rendering pipeline *(in progress)* |
 
 ---
 
