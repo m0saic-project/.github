@@ -45,7 +45,7 @@ npx m0saic hello-world
 ```
 
 Three surfaces, one compiler: [Mosaic Web](https://app.m0saic.io) to look first, [Mosaic Desktop](https://m0saic.io/download)
-for the full workspace, and the CLI for anywhere ffmpeg runs.
+for the full workspace, and [the CLI](https://www.npmjs.com/package/m0saic) for anywhere ffmpeg runs.
 
 ---
 
