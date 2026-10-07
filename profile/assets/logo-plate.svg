@@ -1,4 +1,9 @@
-<svg width="367" height="385" viewBox="0 0 367 385" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="455" height="473" viewBox="0 0 455 473" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- The lockup on its own dark plate: reads the same on a light or a dark page,
+     which a <picture> swap cannot promise (GitHub follows the browser colour
+     scheme, not its own theme). Inner artwork = assets/logo.svg, unchanged. -->
+<rect width="455" height="473" rx="44" fill="#0B0B10"/>
+<svg x="44" y="44" width="367" height="385" viewBox="0 0 367 385" fill="none">
 <!-- m0saic lockup, the splash stack tuned for the site's top bar: the tiled M
      (apps/mosaic/assets/brand/mosaic-m.svg) over the zero-form wordmark
      (apps/mosaic/web/src/assets/logo.svg), both centred; the wordmark is 1.35×
@@ -72,5 +77,6 @@
 <path d="M381.006 112.697H354.329V151.32H381.006V112.697Z" fill="#F17423"/>
 <path d="M381.006 158.711H361.76V197.334H381.006V158.711Z" fill="#F17423"/>
 <path d="M0.0100098 77.5001H39.3V101.66C39.3 106.2 45.08 107.96 47.7 104.26C59.2 88.0001 77.84 74.8401 99.14 74.8401C127.21 74.8401 146.52 88.4101 155.69 110.74H157.88C168.01 88.9401 190.74 74.8401 221 74.8401C259.06 74.8401 285.9 98.1101 285.9 144.77V281.71H244.95V148.49C244.95 120.84 227.15 109.14 205.52 109.14C178.83 109.14 163.35 126.96 163.35 151.55V281.71H122.54V145.96C122.54 123.76 106.8 109.14 84.07 109.14C61.34 109.14 40.94 128.28 40.94 155.8V281.71H0V77.5001H0.0100098Z" fill="white"/>
+</svg>
 </svg>
 </svg>

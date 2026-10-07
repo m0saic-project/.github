@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://github.com/m0saic-project/m0saic">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/logo.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.svg">
-      <img src="assets/logo-light.svg" alt="m0saic" width="200">
-    </picture>
+    <img src="assets/logo-plate.svg" alt="m0saic" width="220">
   </a>
 </p>
 
@@ -54,7 +50,7 @@ for the full workspace, and [the CLI](https://www.npmjs.com/package/m0saic) for 
 | | |
 |---|---|
 | <img src="assets/brand-m.svg" width="18" alt="" align="absmiddle"> **[m0saic](https://github.com/m0saic-project/m0saic)** | the front door: the README, the first run, the Claude Code plugin and Agent Skills, issues |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/m0-dark.png"><img src="assets/m0.png" width="22" alt="" align="absmiddle"></picture> **[m0saic-dsl/m0](https://github.com/m0saic-dsl/m0)** | the m0 language: parser, validator, stdlib, file formats. Apache-2.0 |
+| <img src="assets/m0-plate.png" width="22" alt="" align="absmiddle"> **[m0saic-dsl/m0](https://github.com/m0saic-dsl/m0)** | the m0 language: parser, validator, stdlib, file formats. Apache-2.0 |
 | 📦 **[m0saic-packages](https://github.com/m0saic-project/m0saic-packages)** | the public substrate: types, platform, template utilities, the template library |
 | 🧩 **[m0saic-community-templates](https://github.com/m0saic-project/m0saic-community-templates)** | the community library, signed releases |
 | 🫂 **[community-m](https://github.com/m0saic-project/community-m)** | the Community M: one tile per contributor |
