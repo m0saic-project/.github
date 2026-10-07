@@ -50,7 +50,7 @@ for the full workspace, and [the CLI](https://www.npmjs.com/package/m0saic) for 
 | | |
 |---|---|
 | <img src="assets/brand-m.svg" width="18" alt="" align="absmiddle"> **[m0saic](https://github.com/m0saic-project/m0saic)** | the front door: the README, the first run, the Claude Code plugin and Agent Skills, issues |
-| <img src="assets/m0.svg" width="14" alt="" align="absmiddle"> **[m0saic-dsl/m0](https://github.com/m0saic-dsl/m0)** | the m0 language: parser, validator, stdlib, file formats. Apache-2.0 |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/m0-dark.png"><img src="assets/m0-light.png" width="22" alt="" align="absmiddle"></picture> **[m0saic-dsl/m0](https://github.com/m0saic-dsl/m0)** | the m0 language: parser, validator, stdlib, file formats. Apache-2.0 |
 | 📦 **[m0saic-packages](https://github.com/m0saic-project/m0saic-packages)** | the public substrate: types, platform, template utilities, the template library |
 | 🧩 **[m0saic-community-templates](https://github.com/m0saic-project/m0saic-community-templates)** | the community library, signed releases |
 | 🫂 **[community-m](https://github.com/m0saic-project/community-m)** | the Community M: one tile per contributor |
