@@ -58,7 +58,8 @@ for the full workspace, and [the CLI](https://www.npmjs.com/package/m0saic) for 
 | 📦 **[m0saic-packages](https://github.com/m0saic-project/m0saic-packages)** | the public substrate: types, platform, template utilities, the template library |
 | 🧩 **[m0saic-community-templates](https://github.com/m0saic-project/m0saic-community-templates)** | the community library, signed releases |
 | 🫂 **[community-m](https://github.com/m0saic-project/community-m)** | the Community M: one tile per contributor |
-| 🧱 **Starters** | a template repo to point your agent at: [full](https://github.com/m0saic-project/m0saic-template-repo-starter) · [base](https://github.com/m0saic-project/m0saic-template-repo-starter-base) |
+| 🧱 **[m0saic-template-repo-starter](https://github.com/m0saic-project/m0saic-template-repo-starter)** | the full starter: a template repo to point your agent at, with `AGENTS.md`, the MCP config and worked examples in it |
+| 🧱 **[m0saic-template-repo-starter-base](https://github.com/m0saic-project/m0saic-template-repo-starter-base)** | the base starter: the same scaffold, compact |
 | 🤖 **[one-a-day](https://github.com/m0saic-project/one-a-day)** | an agent that ships one template a day |
 | 📓 **[m0saic-sandbox](https://github.com/m0saic-project/m0saic-sandbox)** | the graded candidate corpus from the agent loop, read-only |
 | 💻 **[mosaic-desktop-releases](https://github.com/m0saic-project/mosaic-desktop-releases/releases)** | Mosaic Desktop builds for macOS and Windows |
